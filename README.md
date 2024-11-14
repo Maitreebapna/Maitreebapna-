@@ -1,4 +1,5 @@
 <h1 align="center">Hello👋, I'm Maitree Bapna</h1>
+<h2> <a href="https://maitreebapna.github.io/">Click here to visit my website</a></h2>
 <h3 align="center">A passionate Data Scientist Aspirant from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maitreebapna&label=Profile%20views&color=0e75b6&style=flat" alt="maitreebapna" /> </p>
